@@ -1,0 +1,5 @@
+# Change the number to predict for different routers
+python test.py --routernumber 0
+
+# To train
+python training.py

@@ -1,0 +1,10 @@
+training_path = "datasets\\device_data.csv"
+test_path = "datasets\\test_dataset.csv"
+lag = 6
+embedding_layer = 4
+lstm_units = 64
+dense_units = 32
+dense_activation = 'tanh'
+dropout_rate = 0.1
+optimizer_train = "adam"
+learning_rate = 0.001
